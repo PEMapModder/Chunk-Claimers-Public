@@ -19,3 +19,1617 @@
 2014-03-19 14:50:18 [CMD] Stopping the server
 2014-03-19 14:50:18 [INFO] Unloading level "cc_lobby"
 2014-03-19 14:50:18 [INFO] Unloading level "cc_field"
+2014-03-19 14:56:14 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-19 14:56:14 [INFO] Loading properties...
+2014-03-19 14:56:14 [INFO] Starting Minecraft PE server on *:19132
+2014-03-19 14:56:15 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-19 14:56:15 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-19 14:56:15 [INFO] Preparing level "cc_lobby"
+2014-03-19 14:56:15 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-19 14:56:15 [INFO] Starting GS4 status listener
+2014-03-19 14:56:15 [INFO] Setting query port to 19132
+2014-03-19 14:56:15 [INFO] Query running on 0.0.0.0:19132
+2014-03-19 14:56:15 [INFO] Default game type: SURVIVAL
+2014-03-19 14:56:15 [INFO] Starting plugins...
+2014-03-19 14:56:15 [INFO] Preparing level "cc_field"
+2014-03-19 14:56:15 [INFO] Done (3.167s)! For help, type "help" or "?"
+2014-03-19 15:02:27 [INFO] teamhd1[/92.29.161.114:56043] logged out due to Server is white-listed
+2014-03-19 15:02:46 [INFO] teamhd1[/92.29.161.114:56045] logged out due to Server is white-listed
+2014-03-19 15:07:32 [INFO] teamhd1[/92.29.161.114:56090] logged out due to Server is white-listed
+2014-03-19 15:07:43 [INFO] teamhd1[/92.29.161.114:56092] logged out due to Server is white-listed
+2014-03-19 15:07:54 [INFO] teamhd1[/92.29.161.114:56094] logged out due to Server is white-listed
+2014-03-19 15:11:25 [INFO] teamhd1[/92.29.161.114:56107] logged out due to Server is white-listed
+2014-03-19 15:17:57 [INFO] teamhd1[/92.29.161.114:56181] logged out due to Server is white-listed
+2014-03-19 15:29:21 [INFO] Keruvin429%20[/114.183.189.60:35754] logged out due to Bad username
+2014-03-19 15:33:33 [INFO] Summer_William[/119.74.61.82:56378] logged out due to Server is white-listed
+2014-03-19 15:33:46 [INFO] Summer_William[/119.74.61.82:40810] logged out due to Server is white-listed
+2014-03-19 16:14:55 [INFO] hacker[/92.29.161.114:57957] logged out due to Server is white-listed
+2014-03-19 17:05:12 [INFO] Hellobrine[/5.164.115.95:46562] logged out due to Server is white-listed
+2014-03-19 17:05:30 [INFO] Hellobrine[/5.164.115.95:52530] logged out due to Server is white-listed
+2014-03-19 18:36:38 [INFO] ballyboomer[/87.102.1.27:63396] logged out due to Server is white-listed
+2014-03-19 18:40:36 [INFO] Steve[/162.197.194.81:64667] logged out due to Server is white-listed
+2014-03-19 18:40:47 [INFO] Steve[/162.197.194.81:58140] logged out due to Server is white-listed
+2014-03-19 19:03:00 [INFO] teamhd1[/92.29.161.114:60971] logged out due to Server is white-listed
+2014-03-19 19:04:38 [INFO] pemapmodder[/92.29.161.114:61040] logged in with entity id 1 at (cc_field, 128, 85, 128.34)
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:05:09 [WARNING] pemapmodder moved too quickly!
+2014-03-19 19:09:27 [INFO] [pemapmodder -> Console] its me teamhd2 wat happend here
+2014-03-19 19:10:14 [INFO] pemapmodder[/92.29.161.114:61040] logged out due to client disconnect
+2014-03-19 19:10:27 [INFO] teamhd1[/92.29.161.114:61153] logged out due to Server is white-listed
+2014-03-19 20:33:20 [INFO] Steve[/162.197.194.81:60331] logged out due to Server is white-listed
+2014-03-19 20:33:33 [INFO] Steve[/162.197.194.81:60749] logged out due to Server is white-listed
+2014-03-19 20:33:44 [INFO] Steve[/162.197.194.81:51057] logged out due to Server is white-listed
+2014-03-19 20:34:14 [INFO] DonutsHaveEggs4[/174.97.155.156:62580] logged out due to Server is white-listed
+2014-03-19 20:34:43 [INFO] darwin[/46.35.66.199:53512] logged out due to Server is white-listed
+2014-03-19 20:34:57 [INFO] darwin[/46.35.66.199:59817] logged out due to Server is white-listed
+2014-03-19 20:35:11 [INFO] darwin[/46.35.66.199:61874] logged out due to Server is white-listed
+2014-03-19 20:35:25 [INFO] darwin[/46.35.66.199:54071] logged out due to Server is white-listed
+2014-03-19 20:35:39 [INFO] darwin[/46.35.66.199:54389] logged out due to Server is white-listed
+2014-03-19 21:14:00 [INFO] [/79.170.54.42:34841] logged out due to timeout
+2014-03-19 21:21:12 [INFO] theironhacker[/162.197.194.81:59094] logged out due to Server is white-listed
+2014-03-19 21:21:25 [INFO] theironhacker[/162.197.194.81:49765] logged out due to Server is white-listed
+2014-03-19 21:21:46 [INFO] theironhacker[/162.197.194.81:49853] logged out due to Server is white-listed
+2014-03-19 21:22:14 [INFO] theironhacker[/162.197.194.81:61744] logged out due to Server is white-listed
+2014-03-20 00:01:58 [CMD] White-list turned off
+2014-03-20 00:02:12 [INFO] Stopping server...
+2014-03-20 00:02:12 [CMD] Stopping the server
+2014-03-20 00:02:13 [INFO] Unloading level "cc_lobby"
+2014-03-20 00:02:13 [INFO] Unloading level "cc_field"
+2014-03-20 00:02:37 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 00:02:37 [INFO] Loading properties...
+2014-03-20 00:02:37 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 00:02:37 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 00:02:37 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 00:02:37 [INFO] Checking for new server version
+2014-03-20 00:02:37 [INFO] Last check: 2014-03-19 14:49:59
+2014-03-20 00:02:39 [INFO] This is the latest STABLE version
+2014-03-20 00:02:39 [INFO] Preparing level "cc_lobby"
+2014-03-20 00:02:39 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 00:02:39 [INFO] Starting GS4 status listener
+2014-03-20 00:02:39 [INFO] Setting query port to 19132
+2014-03-20 00:02:39 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 00:02:39 [INFO] Default game type: SURVIVAL
+2014-03-20 00:02:39 [INFO] Starting plugins...
+2014-03-20 00:02:39 [INFO] Preparing level "cc_field"
+2014-03-20 00:02:39 [INFO] Done (5.799s)! For help, type "help" or "?"
+2014-03-20 00:03:03 [INFO] Stopping server...
+2014-03-20 00:03:03 [CMD] Stopping the server
+2014-03-20 00:03:04 [INFO] Unloading level "cc_lobby"
+2014-03-20 00:03:04 [INFO] Unloading level "cc_field"
+2014-03-20 00:03:32 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 00:03:32 [INFO] Loading properties...
+2014-03-20 00:03:32 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 00:03:32 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 00:03:32 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 00:03:32 [INFO] Preparing level "cc_field"
+2014-03-20 00:03:32 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 00:03:32 [INFO] Starting GS4 status listener
+2014-03-20 00:03:32 [INFO] Setting query port to 19132
+2014-03-20 00:03:32 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 00:03:32 [INFO] Default game type: VIEW
+2014-03-20 00:03:32 [INFO] Starting plugins...
+2014-03-20 00:03:32 [INFO] Done (3.1s)! For help, type "help" or "?"
+2014-03-20 00:03:37 [CMD] TPS: 20.252, Memory usage: 9.97MB (Peak 10.14MB)
+2014-03-20 00:56:51 [INFO] glowstone girl20[/121.54.54.41:50420] logged out due to Bad username
+2014-03-20 01:17:58 [NOTICE] Player data not found for "demolstration56", creating new profile
+2014-03-20 01:17:58 [INFO] demolstration56[/190.142.120.220:47183] logged in with entity id 1 at (cc_field, 128, 86, 128)
+2014-03-20 01:18:23 [NOTICE] Player data not found for "tccyyyhhhjjjjjjc", creating new profile
+2014-03-20 01:18:23 [INFO] Tccyyyhhhjjjjjjc[/64.136.223.99:53262] logged in with entity id 2 at (cc_field, 128, 86, 128)
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:03 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:04 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:19:11 [INFO] <Tccyyyhhhjjjjjjc> hello
+2014-03-20 01:19:17 [INFO] <Tccyyyhhhjjjjjjc> how do i buil
+2014-03-20 01:19:19 [INFO] <demolstration56> hello
+2014-03-20 01:19:23 [INFO] <Tccyyyhhhjjjjjjc> build
+2014-03-20 01:19:40 [INFO] demolstration56[/190.142.120.220:47183] logged out due to logged in from another location
+2014-03-20 01:19:40 [INFO] demolstration56[/190.142.120.220:49207] logged in with entity id 3 at (cc_field, 132.83, 86.25, 141.76)
+2014-03-20 01:20:07 [INFO] Tccyyyhhhjjjjjjc[/64.136.223.99:53262] logged out due to client disconnect
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:23 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:24 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:24 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:24 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:24 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:25 [WARNING] demolstration56 moved too quickly!
+2014-03-20 01:20:49 [INFO] demolstration56[/190.142.120.220:49207] logged out due to client disconnect
+2014-03-20 04:52:04 [INFO] PEMapModder[/203.145.92.92:44102] logged in with entity id 4 at (cc_field, 14.47, 95.19, 160.69)
+2014-03-20 04:52:19 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:19 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:19 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:52:21 [WARNING] PEMapModder moved too quickly!
+2014-03-20 04:53:49 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:49 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:50 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:50 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:50 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:50 [DEBUG] i:0
+2014-03-20 04:53:50 [DEBUG] i:1
+2014-03-20 04:53:50 [DEBUG] i:2
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:50 [DEBUG] i:3
+2014-03-20 04:53:50 [DEBUG] i:4
+2014-03-20 04:53:50 [DEBUG] i:5
+2014-03-20 04:53:51 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:51 [DEBUG] i:0
+2014-03-20 04:53:51 [DEBUG] i:1
+2014-03-20 04:53:51 [DEBUG] i:2
+2014-03-20 04:53:51 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:51 [DEBUG] i:0
+2014-03-20 04:53:51 [DEBUG] i:1
+2014-03-20 04:53:51 [DEBUG] i:2
+2014-03-20 04:53:51 [DEBUG] i:3
+2014-03-20 04:53:51 [DEBUG] i:4
+2014-03-20 04:53:51 [DEBUG] i:5
+2014-03-20 04:53:51 [DEBUG] i:3
+2014-03-20 04:53:51 [DEBUG] i:4
+2014-03-20 04:53:51 [DEBUG] i:5
+2014-03-20 04:53:52 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:52 [DEBUG] i:0
+2014-03-20 04:53:52 [DEBUG] i:1
+2014-03-20 04:53:52 [DEBUG] i:2
+2014-03-20 04:53:52 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:52 [DEBUG] i:0
+2014-03-20 04:53:52 [DEBUG] i:1
+2014-03-20 04:53:52 [DEBUG] i:2
+2014-03-20 04:53:52 [DEBUG] i:3
+2014-03-20 04:53:52 [DEBUG] i:4
+2014-03-20 04:53:52 [DEBUG] i:5
+2014-03-20 04:53:52 [DEBUG] i:3
+2014-03-20 04:53:52 [DEBUG] i:4
+2014-03-20 04:53:52 [DEBUG] i:5
+2014-03-20 04:53:52 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:52 [DEBUG] i:0
+2014-03-20 04:53:52 [DEBUG] i:1
+2014-03-20 04:53:52 [DEBUG] i:2
+2014-03-20 04:53:52 [DEBUG] i:3
+2014-03-20 04:53:52 [DEBUG] i:4
+2014-03-20 04:53:52 [DEBUG] i:5
+2014-03-20 04:53:53 [DEBUG] t:Block Torch (50:0)
+2014-03-20 04:53:53 [DEBUG] i:0
+2014-03-20 04:53:53 [DEBUG] i:1
+2014-03-20 04:53:53 [DEBUG] i:2
+2014-03-20 04:53:53 [DEBUG] i:3
+2014-03-20 04:53:53 [DEBUG] i:4
+2014-03-20 04:53:53 [DEBUG] t:Block Torch (50:0)
+2014-03-20 04:53:53 [DEBUG] i:0
+2014-03-20 04:53:53 [DEBUG] i:1
+2014-03-20 04:53:53 [DEBUG] i:2
+2014-03-20 04:53:53 [DEBUG] i:3
+2014-03-20 04:53:53 [DEBUG] i:4
+2014-03-20 04:53:53 [DEBUG] i:5
+2014-03-20 04:53:53 [DEBUG] i:5
+2014-03-20 04:53:55 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:55 [DEBUG] i:0
+2014-03-20 04:53:55 [DEBUG] i:1
+2014-03-20 04:53:55 [DEBUG] i:2
+2014-03-20 04:53:55 [DEBUG] i:3
+2014-03-20 04:53:55 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:55 [DEBUG] i:0
+2014-03-20 04:53:55 [DEBUG] i:1
+2014-03-20 04:53:55 [DEBUG] i:2
+2014-03-20 04:53:55 [DEBUG] i:3
+2014-03-20 04:53:55 [DEBUG] i:4
+2014-03-20 04:53:55 [DEBUG] i:5
+2014-03-20 04:53:55 [DEBUG] i:4
+2014-03-20 04:53:55 [DEBUG] i:5
+2014-03-20 04:53:55 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:55 [DEBUG] i:0
+2014-03-20 04:53:55 [DEBUG] i:1
+2014-03-20 04:53:55 [DEBUG] i:2
+2014-03-20 04:53:55 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:55 [DEBUG] i:0
+2014-03-20 04:53:55 [DEBUG] i:1
+2014-03-20 04:53:55 [DEBUG] i:2
+2014-03-20 04:53:55 [DEBUG] i:3
+2014-03-20 04:53:55 [DEBUG] i:4
+2014-03-20 04:53:55 [DEBUG] i:5
+2014-03-20 04:53:55 [DEBUG] i:3
+2014-03-20 04:53:55 [DEBUG] i:4
+2014-03-20 04:53:55 [DEBUG] i:5
+2014-03-20 04:53:55 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:55 [DEBUG] i:0
+2014-03-20 04:53:55 [DEBUG] i:1
+2014-03-20 04:53:55 [DEBUG] i:2
+2014-03-20 04:53:55 [DEBUG] i:3
+2014-03-20 04:53:55 [DEBUG] i:4
+2014-03-20 04:53:55 [DEBUG] i:5
+2014-03-20 04:53:56 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:56 [DEBUG] i:0
+2014-03-20 04:53:56 [DEBUG] i:1
+2014-03-20 04:53:56 [DEBUG] i:2
+2014-03-20 04:53:56 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:56 [DEBUG] i:0
+2014-03-20 04:53:56 [DEBUG] i:1
+2014-03-20 04:53:56 [DEBUG] i:2
+2014-03-20 04:53:56 [DEBUG] i:3
+2014-03-20 04:53:56 [DEBUG] i:4
+2014-03-20 04:53:56 [DEBUG] i:5
+2014-03-20 04:53:56 [DEBUG] i:3
+2014-03-20 04:53:56 [DEBUG] i:4
+2014-03-20 04:53:56 [DEBUG] i:5
+2014-03-20 04:53:58 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:58 [DEBUG] i:0
+2014-03-20 04:53:58 [DEBUG] i:1
+2014-03-20 04:53:58 [DEBUG] i:2
+2014-03-20 04:53:58 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:58 [DEBUG] i:0
+2014-03-20 04:53:58 [DEBUG] i:1
+2014-03-20 04:53:58 [DEBUG] i:2
+2014-03-20 04:53:58 [DEBUG] i:3
+2014-03-20 04:53:58 [DEBUG] i:4
+2014-03-20 04:53:58 [DEBUG] i:5
+2014-03-20 04:53:58 [DEBUG] i:3
+2014-03-20 04:53:58 [DEBUG] i:4
+2014-03-20 04:53:58 [DEBUG] i:5
+2014-03-20 04:53:58 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 04:53:58 [DEBUG] i:0
+2014-03-20 04:53:58 [DEBUG] i:1
+2014-03-20 04:53:58 [DEBUG] i:2
+2014-03-20 04:53:58 [DEBUG] i:3
+2014-03-20 04:53:58 [DEBUG] i:4
+2014-03-20 04:53:58 [DEBUG] i:5
+2014-03-20 04:53:58 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 04:53:58 [DEBUG] i:0
+2014-03-20 04:53:58 [DEBUG] i:1
+2014-03-20 04:53:58 [DEBUG] i:2
+2014-03-20 04:53:58 [DEBUG] i:3
+2014-03-20 04:53:58 [DEBUG] i:4
+2014-03-20 04:53:58 [DEBUG] i:5
+2014-03-20 04:53:59 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:59 [DEBUG] i:0
+2014-03-20 04:53:59 [DEBUG] i:1
+2014-03-20 04:53:59 [DEBUG] i:2
+2014-03-20 04:53:59 [DEBUG] i:3
+2014-03-20 04:53:59 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:53:59 [DEBUG] i:0
+2014-03-20 04:53:59 [DEBUG] i:1
+2014-03-20 04:53:59 [DEBUG] i:2
+2014-03-20 04:53:59 [DEBUG] i:3
+2014-03-20 04:53:59 [DEBUG] i:4
+2014-03-20 04:53:59 [DEBUG] i:5
+2014-03-20 04:53:59 [DEBUG] i:4
+2014-03-20 04:53:59 [DEBUG] i:5
+2014-03-20 04:54:11 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:54:11 [DEBUG] i:0
+2014-03-20 04:54:11 [DEBUG] i:1
+2014-03-20 04:54:11 [DEBUG] i:2
+2014-03-20 04:54:11 [DEBUG] i:3
+2014-03-20 04:54:11 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:54:11 [DEBUG] i:0
+2014-03-20 04:54:11 [DEBUG] i:1
+2014-03-20 04:54:11 [DEBUG] i:2
+2014-03-20 04:54:11 [DEBUG] i:3
+2014-03-20 04:54:11 [DEBUG] i:4
+2014-03-20 04:54:11 [DEBUG] i:5
+2014-03-20 04:54:11 [DEBUG] i:4
+2014-03-20 04:54:11 [DEBUG] i:5
+2014-03-20 04:54:11 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:54:11 [DEBUG] i:0
+2014-03-20 04:54:11 [DEBUG] i:1
+2014-03-20 04:54:11 [DEBUG] i:2
+2014-03-20 04:54:11 [DEBUG] i:3
+2014-03-20 04:54:11 [DEBUG] i:4
+2014-03-20 04:54:11 [DEBUG] i:5
+2014-03-20 04:54:11 [DEBUG] t:Block Fence (85:0)
+2014-03-20 04:54:11 [DEBUG] i:0
+2014-03-20 04:54:11 [DEBUG] i:1
+2014-03-20 04:54:11 [DEBUG] i:2
+2014-03-20 04:54:11 [DEBUG] i:3
+2014-03-20 04:54:11 [DEBUG] i:4
+2014-03-20 04:54:11 [DEBUG] i:5
+2014-03-20 04:55:03 [DEBUG] t:Block Red Wool (35:14)
+2014-03-20 04:55:03 [DEBUG] i:0
+2014-03-20 04:55:03 [DEBUG] i:1
+2014-03-20 04:55:03 [DEBUG] i:2
+2014-03-20 04:55:03 [DEBUG] i:3
+2014-03-20 04:55:03 [DEBUG] i:4
+2014-03-20 04:55:03 [DEBUG] t:Block Red Wool (35:14)
+2014-03-20 04:55:03 [DEBUG] i:0
+2014-03-20 04:55:03 [DEBUG] i:1
+2014-03-20 04:55:03 [DEBUG] i:2
+2014-03-20 04:55:03 [DEBUG] i:3
+2014-03-20 04:55:03 [DEBUG] i:4
+2014-03-20 04:55:03 [DEBUG] i:5
+2014-03-20 04:55:03 [DEBUG] i:5
+2014-03-20 04:55:06 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:06 [DEBUG] i:0
+2014-03-20 04:55:06 [DEBUG] i:1
+2014-03-20 04:55:06 [DEBUG] i:2
+2014-03-20 04:55:06 [DEBUG] i:3
+2014-03-20 04:55:06 [DEBUG] i:4
+2014-03-20 04:55:06 [DEBUG] i:5
+2014-03-20 04:55:06 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:06 [DEBUG] i:0
+2014-03-20 04:55:06 [DEBUG] i:1
+2014-03-20 04:55:06 [DEBUG] i:2
+2014-03-20 04:55:06 [DEBUG] i:3
+2014-03-20 04:55:06 [DEBUG] i:4
+2014-03-20 04:55:06 [DEBUG] i:5
+2014-03-20 04:55:13 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:13 [DEBUG] i:0
+2014-03-20 04:55:13 [DEBUG] i:1
+2014-03-20 04:55:13 [DEBUG] i:2
+2014-03-20 04:55:13 [DEBUG] i:3
+2014-03-20 04:55:13 [DEBUG] i:4
+2014-03-20 04:55:13 [DEBUG] i:5
+2014-03-20 04:55:13 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:13 [DEBUG] i:0
+2014-03-20 04:55:13 [DEBUG] i:1
+2014-03-20 04:55:13 [DEBUG] i:2
+2014-03-20 04:55:13 [DEBUG] i:3
+2014-03-20 04:55:13 [DEBUG] i:4
+2014-03-20 04:55:13 [DEBUG] i:5
+2014-03-20 04:55:14 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 04:55:14 [DEBUG] i:0
+2014-03-20 04:55:14 [DEBUG] i:1
+2014-03-20 04:55:14 [DEBUG] i:2
+2014-03-20 04:55:14 [DEBUG] i:3
+2014-03-20 04:55:14 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 04:55:14 [DEBUG] i:0
+2014-03-20 04:55:14 [DEBUG] i:1
+2014-03-20 04:55:14 [DEBUG] i:2
+2014-03-20 04:55:14 [DEBUG] i:3
+2014-03-20 04:55:14 [DEBUG] i:4
+2014-03-20 04:55:14 [DEBUG] i:5
+2014-03-20 04:55:14 [DEBUG] i:4
+2014-03-20 04:55:14 [DEBUG] i:5
+2014-03-20 04:55:17 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:17 [DEBUG] i:0
+2014-03-20 04:55:17 [DEBUG] i:1
+2014-03-20 04:55:17 [DEBUG] i:2
+2014-03-20 04:55:17 [DEBUG] i:3
+2014-03-20 04:55:17 [DEBUG] t:Block Air (0:0)
+2014-03-20 04:55:17 [DEBUG] i:0
+2014-03-20 04:55:17 [DEBUG] i:1
+2014-03-20 04:55:17 [DEBUG] i:2
+2014-03-20 04:55:17 [DEBUG] i:3
+2014-03-20 04:55:17 [DEBUG] i:4
+2014-03-20 04:55:17 [DEBUG] i:5
+2014-03-20 04:55:17 [DEBUG] i:4
+2014-03-20 04:55:17 [DEBUG] i:5
+2014-03-20 04:55:22 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 04:55:22 [DEBUG] i:0
+2014-03-20 04:55:22 [DEBUG] i:1
+2014-03-20 04:55:22 [DEBUG] i:2
+2014-03-20 04:55:22 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 04:55:22 [DEBUG] i:0
+2014-03-20 04:55:22 [DEBUG] i:1
+2014-03-20 04:55:22 [DEBUG] i:2
+2014-03-20 04:55:22 [DEBUG] i:3
+2014-03-20 04:55:22 [DEBUG] i:4
+2014-03-20 04:55:22 [DEBUG] i:5
+2014-03-20 04:55:22 [DEBUG] i:3
+2014-03-20 04:55:22 [DEBUG] i:4
+2014-03-20 04:55:22 [DEBUG] i:5
+2014-03-20 04:55:59 [DEBUG] t:Block Torch (50:5)
+2014-03-20 04:56:00 [DEBUG] i:0
+2014-03-20 04:56:00 [DEBUG] i:1
+2014-03-20 04:56:00 [DEBUG] i:2
+2014-03-20 04:56:00 [DEBUG] i:3
+2014-03-20 04:56:00 [DEBUG] i:4
+2014-03-20 04:56:00 [DEBUG] i:5
+2014-03-20 04:56:00 [DEBUG] t:Block Torch (50:5)
+2014-03-20 04:56:00 [DEBUG] i:0
+2014-03-20 04:56:00 [DEBUG] i:1
+2014-03-20 04:56:00 [DEBUG] i:2
+2014-03-20 04:56:00 [DEBUG] i:3
+2014-03-20 04:56:00 [DEBUG] i:4
+2014-03-20 04:56:00 [DEBUG] i:5
+2014-03-20 04:56:05 [INFO] PEMapModder[/203.145.92.92:44102] logged out due to client disconnect
+2014-03-20 07:55:46 [INFO] Stopping server...
+2014-03-20 07:55:46 [CMD] Stopping the server
+2014-03-20 07:55:46 [INFO] Unloading level "cc_field"
+2014-03-20 07:56:13 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 07:56:13 [INFO] Loading properties...
+2014-03-20 07:56:13 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 07:56:13 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 07:56:13 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 07:56:13 [INFO] Checking for new server version
+2014-03-20 07:56:13 [INFO] Last check: 2014-03-20 00:02:39
+2014-03-20 07:56:13 [ERROR] Github API error
+2014-03-20 07:56:13 [INFO] Preparing level "cc_field"
+2014-03-20 07:56:13 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 07:56:13 [INFO] Starting GS4 status listener
+2014-03-20 07:56:13 [INFO] Setting query port to 19132
+2014-03-20 07:56:13 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 07:56:13 [INFO] Default game type: VIEW
+2014-03-20 07:56:13 [INFO] Starting plugins...
+2014-03-20 07:56:13 [INFO] Done (0.994s)! For help, type "help" or "?"
+2014-03-20 07:56:19 [INFO] Stopping server...
+2014-03-20 07:56:19 [CMD] Stopping the server
+2014-03-20 07:56:19 [INFO] Unloading level "cc_field"
+2014-03-20 07:56:22 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 07:56:22 [INFO] Loading properties...
+2014-03-20 07:56:22 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 07:56:22 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 07:56:22 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 07:56:22 [INFO] Checking for new server version
+2014-03-20 07:56:22 [INFO] Last check: 2014-03-20 00:02:39
+2014-03-20 07:56:22 [ERROR] Github API error
+2014-03-20 07:56:22 [INFO] Preparing level "cc_field"
+2014-03-20 07:56:22 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 07:56:22 [INFO] Starting GS4 status listener
+2014-03-20 07:56:22 [INFO] Setting query port to 19132
+2014-03-20 07:56:22 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 07:56:22 [INFO] Default game type: VIEW
+2014-03-20 07:56:22 [INFO] Starting plugins...
+2014-03-20 07:56:22 [INFO] Done (0.886s)! For help, type "help" or "?"
+2014-03-20 08:04:32 [INFO] PEMapModder[/219.73.81.15:45201] logged in with entity id 1 at (cc_field, 148.97, 99.91, 118.5)
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:55 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:04:55 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:05:40 [INFO] PEMapModder[/219.73.81.15:45201] logged out due to client disconnect
+2014-03-20 08:05:45 [INFO] Stopping server...
+2014-03-20 08:05:45 [CMD] Stopping the server
+2014-03-20 08:05:45 [INFO] Unloading level "cc_field"
+2014-03-20 08:08:46 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 08:08:46 [INFO] Loading properties...
+2014-03-20 08:08:46 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 08:08:46 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 08:08:46 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 08:08:46 [INFO] Checking for new server version
+2014-03-20 08:08:46 [INFO] Last check: 2014-03-20 00:02:39
+2014-03-20 08:08:49 [INFO] This is the latest STABLE version
+2014-03-20 08:08:49 [INFO] Preparing level "cc_field"
+2014-03-20 08:08:49 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 08:08:49 [INFO] Starting GS4 status listener
+2014-03-20 08:08:49 [INFO] Setting query port to 19132
+2014-03-20 08:08:49 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 08:08:49 [INFO] Default game type: VIEW
+2014-03-20 08:08:49 [INFO] Starting plugins...
+2014-03-20 08:08:49 [INFO] Done (5.524s)! For help, type "help" or "?"
+2014-03-20 08:08:55 [INFO] PEMapModder[/192.168.0.100:33018] logged in with entity id 1 at (cc_field, 128.51, 85.01, 127.54)
+2014-03-20 08:09:08 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:09:08 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:09:08 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:09:08 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:09:08 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:09:34 [INFO] Stopping server...
+2014-03-20 08:09:34 [INFO] PEMapModder[/192.168.0.100:33018] logged out due to server stop
+2014-03-20 08:09:34 [CMD] Stopping the server
+2014-03-20 08:09:34 [INFO] Unloading level "cc_field"
+2014-03-20 08:10:15 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 08:10:15 [INFO] Loading properties...
+2014-03-20 08:10:15 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 08:10:15 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 08:10:15 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 08:10:15 [INFO] Preparing level "cc_field"
+2014-03-20 08:10:15 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 08:10:15 [INFO] Starting GS4 status listener
+2014-03-20 08:10:15 [INFO] Setting query port to 19132
+2014-03-20 08:10:15 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 08:10:15 [INFO] Default game type: VIEW
+2014-03-20 08:10:15 [INFO] Starting plugins...
+2014-03-20 08:10:15 [INFO] Done (3.164s)! For help, type "help" or "?"
+2014-03-20 08:10:19 [INFO] PEMapModder[/192.168.0.100:52742] logged in with entity id 1 at (cc_field, 129, 85, 128)
+2014-03-20 08:10:38 [NOTICE] Player data not found for "sleightosf", creating new profile
+2014-03-20 08:10:38 [INFO] SleightOSF[/109.67.153.144:33269] logged in with entity id 2 at (cc_field, 128, 86, 128)
+2014-03-20 08:10:59 [INFO] <PEMapModder> hi
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:10 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:11 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:11 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:11 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:12 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:13 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:13 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:11:16 [INFO] <SleightOSF> hii all
+2014-03-20 08:11:22 [INFO] <PEMapModder> well
+2014-03-20 08:11:28 [INFO] <PEMapModder> i stopped eycraft
+2014-03-20 08:11:34 [INFO] <PEMapModder> this is just a world i am playing
+2014-03-20 08:11:35 [INFO] <PEMapModder> for
+2014-03-20 08:11:39 [INFO] <SleightOSF> noo
+2014-03-20 08:11:44 [INFO] <SleightOSF> i want
+2014-03-20 08:11:45 [INFO] <PEMapModder> a future minjgame
+2014-03-20 08:11:50 [INFO] <SleightOSF> we and you
+2014-03-20 08:11:57 [INFO] <PEMapModder> it will be hosted in LegionPW
+2014-03-20 08:12:04 [INFO] [Console] i meant
+2014-03-20 08:12:09 [INFO] [Console] it will be hosted in LegionPE
+2014-03-20 08:12:23 [INFO] <SleightOSF> i can me admin??
+2014-03-20 08:12:30 [INFO] [Console] well
+2014-03-20 08:12:34 [INFO] [Console] you mean in LegionPE?
+2014-03-20 08:12:47 [INFO] <SleightOSF> what is this i noob
+2014-03-20 08:12:59 [INFO] [Console] a brand new minigame invented by me
+2014-03-20 08:13:06 [CMD] Command ran as PEMapModder.
+2014-03-20 08:13:06 [CMD] Command ran as SleightOSF.
+2014-03-20 08:13:07 [INFO] <SleightOSF> ip
+2014-03-20 08:13:09 [INFO] [Console] what is your ping
+2014-03-20 08:13:19 [CMD] Command ran as PEMapModder.
+2014-03-20 08:13:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:13:20 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:13:23 [INFO] <SleightOSF> how i no
+2014-03-20 08:13:27 [CMD] Command ran as PEMapModder.
+2014-03-20 08:13:27 [CMD] Command ran as SleightOSF.
+2014-03-20 08:13:31 [CMD] Command ran as SleightOSF.
+2014-03-20 08:13:37 [INFO] [Console] what is the ping
+2014-03-20 08:13:38 [INFO] <SleightOSF> i have 100kbs
+2014-03-20 08:13:52 [INFO] [Console] the first number?
+2014-03-20 08:13:54 [INFO] <SleightOSF> very fast
+2014-03-20 08:14:02 [CMD] Command ran as SleightOSF.
+2014-03-20 08:14:09 [CMD] Command ran as PEMapModder.
+2014-03-20 08:14:11 [CMD] Command ran as PEMapModder.
+2014-03-20 08:14:11 [INFO] <SleightOSF> im israel
+2014-03-20 08:14:12 [CMD] Command ran as PEMapModder.
+2014-03-20 08:14:20 [INFO] [Console] anyway
+2014-03-20 08:14:20 [INFO] <SleightOSF> i have 100 kb/s
+2014-03-20 08:14:29 [INFO] [Console] this
+2014-03-20 08:14:32 [INFO] [Console] will a minigame like
+2014-03-20 08:14:38 [INFO] [Console] like
+2014-03-20 08:14:43 [INFO] [Console] you are in some teams
+2014-03-20 08:14:47 [INFO] [Console] at the world corner
+2014-03-20 08:14:51 [CMD] "PEMapModder" teleported to (0, 89, 0)
+2014-03-20 08:14:51 [CMD] "SleightOSF" teleported to (0, 89, 0)
+2014-03-20 08:14:52 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:14:52 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:14:52 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:14:52 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:14:58 [CMD] "SleightOSF" teleported to "PEMapModder"
+2014-03-20 08:15:00 [INFO] <SleightOSF> this is my fist joind
+2014-03-20 08:15:07 [INFO] [Console] and then
+2014-03-20 08:15:14 [INFO] [Console] 1/4 of the world is of your team
+2014-03-20 08:15:17 [INFO] [Console] and the attackers
+2014-03-20 08:15:19 [INFO] [Console] will have to
+2014-03-20 08:15:22 [INFO] [Console] like this
+2014-03-20 08:15:34 [INFO] <SleightOSF> what like
+2014-03-20 08:15:40 [INFO] <PEMapModder> everyone has knockback swords
+2014-03-20 08:15:43 [INFO] <PEMapModder> and then
+2014-03-20 08:15:49 [INFO] <PEMapModder> attackers bave to
+2014-03-20 08:15:56 [INFO] <PEMapModder> jump on here
+2014-03-20 08:15:58 [INFO] <SleightOSF> to
+2014-03-20 08:16:02 [INFO] <PEMapModder> without being attacked
+2014-03-20 08:16:06 [INFO] [Console] i mean
+2014-03-20 08:16:11 [INFO] [Console] without being knocked out
+2014-03-20 08:16:13 [INFO] [Console] or killed
+2014-03-20 08:16:15 [INFO] [Console] and then
+2014-03-20 08:16:20 [INFO] [Console] tap the wool above
+2014-03-20 08:16:27 [INFO] [Console] and then you bclaimed the chunk.
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:50 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:56 [INFO] [Console] how do you think this world looks?
+2014-03-20 08:16:57 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:57 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:57 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:57 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:57 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:58 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:58 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:58 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:16:59 [CMD] "PEMapModder" teleported to "SleightOSF"
+2014-03-20 08:17:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:08 [INFO] <SleightOSF> like a pines lolol
+2014-03-20 08:17:14 [CMD] Command ran as PEMapModder.
+2014-03-20 08:17:14 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:14 [WARNING] PEMapModder moved too quickly!
+2014-03-20 08:17:18 [INFO] [Console] :)
+2014-03-20 08:17:36 [INFO] [Console] i set this as my forum picture
+2014-03-20 08:17:42 [INFO] <SleightOSF> realy want crate new server survival me and you
+2014-03-20 08:17:54 [INFO] <PEMapModder> i m
+2014-03-20 08:17:58 [INFO] <PEMapModder> do u
+2014-03-20 08:18:01 [INFO] <PEMapModder> have any ideas
+2014-03-20 08:18:04 [INFO] <PEMapModder> about
+2014-03-20 08:18:10 [INFO] <PEMapModder> improvements in this world
+2014-03-20 08:18:13 [INFO] <PEMapModder> this battlefield
+2014-03-20 08:18:16 [INFO] <SleightOSF> can you delet all the map??
+2014-03-20 08:18:28 [INFO] <PEMapModder> i am using this map to thr minigame
+2014-03-20 08:18:29 [INFO] <PEMapModder> and then
+2014-03-20 08:18:34 [INFO] <PEMapModder> i am thinking
+2014-03-20 08:18:42 [INFO] <SleightOSF> ? minigame
+2014-03-20 08:18:48 [INFO] <PEMapModder> players can build anything with wool to defend their chunks
+2014-03-20 08:18:59 [INFO] <PEMapModder> what i meant about the minigame is like tbis
+2014-03-20 08:19:02 [CMD] "SleightOSF" teleported to "PEMapModder"
+2014-03-20 08:19:03 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:19:03 [WARNING] SleightOSF moved too quickly!
+2014-03-20 08:19:12 [INFO] [Console] this minigame is called Chunk Claimers
+2014-03-20 08:19:18 [INFO] <SleightOSF> can you give me op
+2014-03-20 08:19:25 [INFO] [Console] and then
+2014-03-20 08:19:34 [INFO] [Console] when a player taps the wool above
+2014-03-20 08:19:41 [INFO] <SleightOSF> and then what
+2014-03-20 08:19:44 [INFO] [Console] his team claims the chunk
+2014-03-20 08:19:46 [INFO] [Console] a chunk
+2014-03-20 08:19:49 [INFO] [Console] is the square
+2014-03-20 08:19:54 [INFO] [Console] surrounded by torches
+2014-03-20 08:19:58 [INFO] [Console] and thne
+2014-03-20 08:20:00 [INFO] [Console] i am thinking
+2014-03-20 08:20:05 [INFO] [Console] if the chunk is claimed
+2014-03-20 08:20:10 [INFO] <SleightOSF> i exit you soo fagout bye
+2014-03-20 08:20:20 [INFO] [Console] shall the ground change to that team's color
+2014-03-20 08:20:22 [INFO] [Console] in wool
+2014-03-20 08:20:26 [INFO] SleightOSF[/109.67.153.144:33269] logged out due to client disconnect
+2014-03-20 08:23:36 [INFO] PEMapModder[/192.168.0.100:52742] logged out due to client disconnect
+2014-03-20 08:24:08 [NOTICE] Player data not found for "theniggasftw", creating new profile
+2014-03-20 08:24:08 [INFO] TheNiggasFTW[/62.82.18.201:39988] logged in with entity id 3 at (cc_field, 128, 86, 128)
+2014-03-20 08:24:45 [INFO] TheNiggasFTW[/62.82.18.201:39988] logged out due to client disconnect
+2014-03-20 08:25:21 [INFO] TheNiggasFTW[/62.82.18.201:39441] logged in with entity id 4 at (cc_field, 128.96, 108.87, 132.29)
+2014-03-20 08:25:22 [NOTICE] Player data not found for "carlesbng", creating new profile
+2014-03-20 08:25:22 [INFO] CarlesBng[/62.82.18.201:55259] logged in with entity id 5 at (cc_field, 128, 86, 128)
+2014-03-20 08:25:50 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:51 [WARNING] TheNiggasFTW moved too quickly!
+2014-03-20 08:25:52 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:25:52 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:25:53 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:21 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:22 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:22 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:22 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:26:22 [WARNING] CarlesBng moved too quickly!
+2014-03-20 08:27:03 [INFO] TheNiggasFTW[/62.82.18.201:39441] logged out due to client disconnect
+2014-03-20 08:27:35 [INFO] CarlesBng[/62.82.18.201:55259] logged out due to client disconnect
+2014-03-20 09:00:27 [NOTICE] Player data not found for "_aqua_bear_", creating new profile
+2014-03-20 09:00:27 [INFO] _AQUA_BEAR_[/115.134.199.229:56124] logged in with entity id 6 at (cc_field, 128, 86, 128)
+2014-03-20 09:01:27 [INFO] _AQUA_BEAR_[/115.134.199.229:56124] logged out due to client disconnect
+2014-03-20 09:07:34 [NOTICE] Player data not found for "donutshaveeggs4", creating new profile
+2014-03-20 09:07:34 [INFO] DonutsHaveEggs4[/174.97.155.156:52589] logged in with entity id 7 at (cc_field, 128, 86, 128)
+2014-03-20 09:08:04 [INFO] DonutsHaveEggs4[/174.97.155.156:52589] logged out due to timeout
+2014-03-20 09:09:52 [CMD] TPS: 20.2623, Memory usage: 9.93MB (Peak 26MB)
+2014-03-20 09:10:01 [INFO] Stopping server...
+2014-03-20 09:10:01 [CMD] Stopping the server
+2014-03-20 09:10:01 [INFO] Unloading level "cc_field"
+2014-03-20 09:10:52 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 09:10:52 [INFO] Loading properties...
+2014-03-20 09:10:52 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 09:10:52 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 09:10:52 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 09:10:52 [INFO] Checking for new server version
+2014-03-20 09:10:52 [INFO] Last check: 2014-03-20 08:08:49
+2014-03-20 09:10:54 [INFO] This is the latest STABLE version
+2014-03-20 09:10:54 [INFO] Preparing level "cc_field"
+2014-03-20 09:10:54 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 09:10:54 [INFO] Starting GS4 status listener
+2014-03-20 09:10:54 [INFO] Setting query port to 19132
+2014-03-20 09:10:54 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 09:10:54 [INFO] Default game type: VIEW
+2014-03-20 09:10:54 [INFO] Starting plugins...
+2014-03-20 09:10:54 [INFO] Done (5.713s)! For help, type "help" or "?"
+2014-03-20 09:10:58 [CMD] Command doesn't exist! Use /help
+2014-03-20 09:11:00 [CMD] Command doesn't exist! Use /help
+2014-03-20 09:11:07 [CMD] TPS: 20.3447, Memory usage: 9.97MB (Peak 10.14MB)
+2014-03-20 09:12:14 [INFO] DonutsHaveEggs4[/174.97.155.156:57328] logged in with entity id 1 at (cc_field, 128, 86, 128)
+2014-03-20 09:12:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:12:43 [INFO] <DonutsHaveEggs4> Hello
+2014-03-20 09:12:53 [INFO] <DonutsHaveEggs4> Why No Simple Auth
+2014-03-20 09:12:57 [INFO] <DonutsHaveEggs4> PE
+2014-03-20 09:13:01 [INFO] [Console] hi
+2014-03-20 09:13:11 [INFO] [Console] EYCraft is down
+2014-03-20 09:13:18 [INFO] <DonutsHaveEggs4> ?
+2014-03-20 09:13:19 [INFO] [Console] I think EYCraft has come to an end
+2014-03-20 09:13:26 [INFO] [Console] since 12458 has disappeared
+2014-03-20 09:13:34 [INFO] <DonutsHaveEggs4> Your chaneing the name
+2014-03-20 09:13:40 [INFO] [Console] and I am too tired to manage a survival server
+2014-03-20 09:13:46 [INFO] [Console] this is Chunk Claimers
+2014-03-20 09:13:49 [INFO] [Console] a minigame
+2014-03-20 09:13:49 [INFO] <DonutsHaveEggs4> Lol
+2014-03-20 09:13:56 [INFO] <DonutsHaveEggs4> What Is It
+2014-03-20 09:13:59 [INFO] [Console] I did not expect people to join this server
+2014-03-20 09:14:05 [INFO] [Console] I just hosted it for myself
+2014-03-20 09:14:09 [INFO] [Console] but it ends up
+2014-03-20 09:14:17 [INFO] [Console] that the port is still ported forward
+2014-03-20 09:14:24 [INFO] [Console] and people can join this
+2014-03-20 09:14:25 [INFO] <DonutsHaveEggs4> Yep
+2014-03-20 09:14:29 [INFO] [Console] well
+2014-03-20 09:14:34 [INFO] [Console] they are in gamemode 3
+2014-03-20 09:14:38 [INFO] <DonutsHaveEggs4> Hey Can You Install Simple Auth
+2014-03-20 09:14:42 [INFO] [Console] no
+2014-03-20 09:14:44 [INFO] [Console] because
+2014-03-20 09:14:47 [INFO] <DonutsHaveEggs4> Oh Adventure mode
+2014-03-20 09:14:57 [INFO] [Console] it is not necessary
+2014-03-20 09:15:14 [INFO] <DonutsHaveEggs4> So What Do You Do
+2014-03-20 09:15:20 [CMD] - Showing help page 1 of 6 (/help <page>) -
+2014-03-20 09:15:20 [CMD] /ban <add|remove|list|reload> [username]
+2014-03-20 09:15:20 [CMD] /banip <add|remove|list|reload> [IP|player]
+2014-03-20 09:15:20 [CMD] /defaultgamemode <mode>
+2014-03-20 09:15:20 [CMD] /deop <player>
+2014-03-20 09:15:20 [CMD] /difficulty <0|1|2|3>
+2014-03-20 09:15:22 [INFO] [Console] ?
+2014-03-20 09:15:31 [INFO] <DonutsHaveEggs4> On The Miney Game
+2014-03-20 09:15:36 [INFO] [Console] this minigame
+2014-03-20 09:15:37 [INFO] [Console] is
+2014-03-20 09:15:39 [INFO] [Console] wait
+2014-03-20 09:15:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:15:43 [INFO] PEMapModder[/192.168.0.100:50621] logged in with entity id 2 at (cc_field, 128.26, 85, 128.17)
+2014-03-20 09:15:45 [INFO] [Console] in fact
+2014-03-20 09:15:54 [INFO] [Console] I am developing an auth plugin at another port
+2014-03-20 09:16:03 [INFO] <DonutsHaveEggs4> Whats The Ip
+2014-03-20 09:16:19 [INFO] [Console] ?
+2014-03-20 09:16:21 [INFO] [Console] oh
+2014-03-20 09:16:27 [INFO] [Console] you can't connect
+2014-03-20 09:16:30 [INFO] [Console] it is not ported forward
+2014-03-20 09:16:34 [INFO] <DonutsHaveEggs4> Oh Ok
+2014-03-20 09:16:39 [INFO] <PEMapModder> any
+2014-03-20 09:16:41 [INFO] <PEMapModder> anywya
+2014-03-20 09:16:48 [INFO] <PEMapModder> what do u think abiut here
+2014-03-20 09:16:54 [INFO] <DonutsHaveEggs4> Will You Port It Fowword
+2014-03-20 09:16:59 [INFO] <PEMapModder> no
+2014-03-20 09:17:07 [INFO] <PEMapModder> it is only a server for testing plugins
+2014-03-20 09:17:13 [INFO] <DonutsHaveEggs4> Oh
+2014-03-20 09:17:22 [INFO] <PEMapModder> it will be cor LefionPE
+2014-03-20 09:17:26 [INFO] [Console] *LegionPE
+2014-03-20 09:17:30 [CMD] "DonutsHaveEggs4" teleported to "PEMapModder"
+2014-03-20 09:17:30 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:17:30 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:17:34 [INFO] [Console] watch me
+2014-03-20 09:17:41 [INFO] DonutsHaveEggs4[/174.97.155.156:57328] logged out due to logged in from another location
+2014-03-20 09:17:41 [INFO] DonutsHaveEggs4[/174.97.155.156:53696] logged in with entity id 3 at (cc_field, 134.94, 85, 132.98)
+2014-03-20 09:17:59 [INFO] <DonutsHaveEggs4> Oh
+2014-03-20 09:18:02 [INFO] <DonutsHaveEggs4> Is
+2014-03-20 09:18:03 [INFO] <PEMapModder> watch me
+2014-03-20 09:18:07 [INFO] <PEMapModder> here
+2014-03-20 09:18:07 [NOTICE] Player data not found for "main_grom", creating new profile
+2014-03-20 09:18:07 [INFO] main_grom[/2.133.50.90:34523] logged in with entity id 4 at (cc_field, 128, 86, 128)
+2014-03-20 09:18:09 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:18:09 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:18:09 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:09 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:09 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:10 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:11 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:12 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:13 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:13 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:21 [INFO] <DonutsHaveEggs4> the Flip
+2014-03-20 09:18:25 [INFO] <PEMapModder> ?
+2014-03-20 09:18:32 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:32 [DEBUG] t:Block Stone (1:0)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:33 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:34 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:38 [INFO] <DonutsHaveEggs4> That is weird
+2014-03-20 09:18:39 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:39 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:40 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:40 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:42 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:42 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:44 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:44 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:44 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:47 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:48 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:48 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:48 [DEBUG] t:Block Brick Stairs (108:1)
+2014-03-20 09:18:48 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:50 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:50 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:50 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:52 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:52 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:52 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:52 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:52 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:53 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:53 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:53 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:53 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:55 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:56 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:56 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:56 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:56 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:57 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:58 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:58 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:58 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:59 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:18:59 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:12 [INFO] <PEMapModder> why?
+2014-03-20 09:19:19 [INFO] main_grom[/2.133.50.90:34523] logged out due to client disconnect
+2014-03-20 09:19:32 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:32 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:33 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:33 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:34 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:34 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:35 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:35 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:37 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:37 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:38 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:38 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:39 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:39 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:40 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:40 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:19:41 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:41 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:19:45 [INFO] <DonutsHaveEggs4> i cant Place
+2014-03-20 09:19:47 [INFO] [Console] each thing I place
+2014-03-20 09:19:56 [INFO] [Console] will be copied for 256 times
+2014-03-20 09:20:01 [INFO] <DonutsHaveEggs4> Whoa
+2014-03-20 09:20:12 [INFO] <PEMapModder> there are 256 chunks on the server
+2014-03-20 09:20:27 [CMD] "DonutsHaveEggs4" teleported to "PEMapModder"
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:27 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:20:35 [INFO] <PEMapModder> now
+2014-03-20 09:20:38 [INFO] <PEMapModder> what i want to make
+2014-03-20 09:20:43 [INFO] <PEMapModder> in this minigame
+2014-03-20 09:20:43 [INFO] <PEMapModder> is
+2014-03-20 09:20:49 [INFO] <PEMapModder> dollow me
+2014-03-20 09:20:50 [INFO] <PEMapModder> follow me
+2014-03-20 09:21:19 [INFO] <PEMapModder> there shall be something like a base here
+2014-03-20 09:21:25 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:21:27 [INFO] <PEMapModder> and then
+2014-03-20 09:21:29 [INFO] <PEMapModder> players
+2014-03-20 09:21:34 [INFO] <PEMapModder> thhtey have to claim the chunks
+2014-03-20 09:21:38 [INFO] <PEMapModder> by
+2014-03-20 09:21:48 [INFO] <PEMapModder> not being killed bh the decenders
+2014-03-20 09:21:53 [INFO] <PEMapModder> defenders
+2014-03-20 09:21:54 [INFO] <DonutsHaveEggs4> Ohhh
+2014-03-20 09:21:58 [INFO] <PEMapModder> there are four teams totally
+2014-03-20 09:22:09 [INFO] <PEMapModder> each team defends a quarter of the world
+2014-03-20 09:22:11 [INFO] [Console] and then
+2014-03-20 09:22:21 [INFO] [Console] they have to invade others' chunks
+2014-03-20 09:22:24 [INFO] [Console] by
+2014-03-20 09:22:32 [INFO] [Console] walking up the fence posts
+2014-03-20 09:22:43 [INFO] <PEMapModder> like me here
+2014-03-20 09:22:55 [INFO] [Console] and then
+2014-03-20 09:23:00 [INFO] [Console] jump up
+2014-03-20 09:23:04 [INFO] [Console] and tap the wool above
+2014-03-20 09:23:14 [INFO] [Console] then the wool will turn into the colour of that team
+2014-03-20 09:23:30 [INFO] [Console] and maybe the ground too
+2014-03-20 09:23:42 [INFO] [Console] and then
+2014-03-20 09:23:51 [INFO] [Console] the defenders hold knockback swords
+2014-03-20 09:24:03 [INFO] <DonutsHaveEggs4> How
+2014-03-20 09:24:09 [INFO] [Console] just iron swords
+2014-03-20 09:24:15 [INFO] [Console] i code them to be knockback
+2014-03-20 09:24:15 [INFO] <DonutsHaveEggs4> Oh
+2014-03-20 09:24:19 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:24:24 [INFO] [Console] and then
+2014-03-20 09:24:24 [INFO] DonutsHaveEggs4[/174.97.155.156:53696] logged out due to logged in from another location
+2014-03-20 09:24:24 [INFO] DonutsHaveEggs4[/174.97.155.156:59472] logged in with entity id 5 at (cc_field, 40.37, 100.3, 34.11)
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:24:41 [INFO] [Console] and then
+2014-03-20 09:24:53 [INFO] [Console] if all the chunks of a team are claimed
+2014-03-20 09:25:02 [INFO] [Console] and that team claimed no more chunks
+2014-03-20 09:25:04 [INFO] [Console] that team is out
+2014-03-20 09:25:09 [INFO] [Console] simple?
+2014-03-20 09:25:13 [INFO] <DonutsHaveEggs4> Yep
+2014-03-20 09:25:19 [INFO] <PEMapModder> and i am wondering
+2014-03-20 09:25:19 [INFO] <DonutsHaveEggs4> So Can You Op Me
+2014-03-20 09:25:20 [INFO] <PEMapModder> whether
+2014-03-20 09:25:27 [INFO] <DonutsHaveEggs4> And I Will Build The Base
+2014-03-20 09:25:30 [INFO] [Console] no
+2014-03-20 09:25:36 [INFO] [Console] you dont know how to build here
+2014-03-20 09:25:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:36 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:40 [INFO] [Console] I can teach you though
+2014-03-20 09:25:41 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:25:49 [INFO] [Console] but you must listen first
+2014-03-20 09:25:56 [CMD] "PEMapModder" teleported to (128, 88, 128)
+2014-03-20 09:25:56 [CMD] "DonutsHaveEggs4" teleported to (128, 88, 128)
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:25:56 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:25:56 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:25:56 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:26:02 [CMD] donutshaveeggs4 is now op
+2014-03-20 09:26:05 [CMD] Gamemode of DonutsHaveEggs4 changed to creative
+2014-03-20 09:26:06 [INFO] <DonutsHaveEggs4> Thx
+2014-03-20 09:26:12 [INFO] [Console] now
+2014-03-20 09:26:13 [INFO] [Console] here
+2014-03-20 09:26:18 [INFO] [Console] do /sync 2
+2014-03-20 09:26:33 [INFO] <DonutsHaveEggs4> Done
+2014-03-20 09:26:40 [INFO] [Console] what are you holding?
+2014-03-20 09:26:53 [INFO] DonutsHaveEggs4[/174.97.155.156:59472] logged out due to timeout
+2014-03-20 09:27:10 [INFO] DonutsHaveEggs4[/174.97.155.156:52379] logged in with entity id 6 at (cc_field, 126.42, 88.62, 134.19)
+2014-03-20 09:27:22 [INFO] [/174.97.155.156:54896] logged out due to timeout
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:23 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:24 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [INFO] [Console] hello?
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:25 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:26 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:27:29 [CMD] "DonutsHaveEggs4" teleported to "PEMapModder"
+2014-03-20 09:27:31 [INFO] <DonutsHaveEggs4> I did Sync 2
+2014-03-20 09:27:32 [INFO] <DonutsHaveEggs4> Hi
+2014-03-20 09:27:34 [INFO] [Console] ok
+2014-03-20 09:27:36 [INFO] [Console] do it again
+2014-03-20 09:27:39 [INFO] [Console] do /sync 2 again
+2014-03-20 09:27:41 [INFO] [Console] you just crashed
+2014-03-20 09:27:45 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:27:45 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:27:49 [INFO] <DonutsHaveEggs4> Yeah
+2014-03-20 09:27:50 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:27:50 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:27:55 [INFO] [Console] ok so you see
+2014-03-20 09:27:58 [INFO] [Console] what are the effects
+2014-03-20 09:28:00 [INFO] [Console] but listen
+2014-03-20 09:28:06 [INFO] [Console] dont place blocks near world margin
+2014-03-20 09:28:15 [INFO] [Console] unexpected results would happen
+2014-03-20 09:28:20 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:28:26 [INFO] [Console] no
+2014-03-20 09:28:28 [INFO] [Console] now
+2014-03-20 09:28:33 [INFO] [Console] you can do /sync 1
+2014-03-20 09:28:39 [CMD] Command ran as PEMapModder.
+2014-03-20 09:28:43 [CMD] Command ran as PEMapModder.
+2014-03-20 09:28:45 [INFO] [Console] done?
+2014-03-20 09:28:47 [INFO] <DonutsHaveEggs4> Done 
+2014-03-20 09:28:54 [INFO] [Console] place blocks under me
+2014-03-20 09:29:01 [INFO] <PEMapModder> here
+2014-03-20 09:29:03 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:29:04 [DEBUG] t:Block Torch (50:5)
+2014-03-20 09:29:09 [INFO] [Console] as you see
+2014-03-20 09:29:16 [INFO] [Console] it will only be copied for 4 times
+2014-03-20 09:29:22 [INFO] [Console] /sync 1
+2014-03-20 09:29:24 [INFO] [Console] is a mode
+2014-03-20 09:29:24 [INFO] <DonutsHaveEggs4> Ohhh
+2014-03-20 09:29:25 [INFO] [Console] for
+2014-03-20 09:29:29 [INFO] [Console] copying to each team
+2014-03-20 09:29:35 [INFO] [Console] not each chunk
+2014-03-20 09:29:40 [CMD] Command ran as PEMapModder.
+2014-03-20 09:29:41 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:29:43 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:29:58 [CMD] "PEMapModder" teleported to (1, 88, 1)
+2014-03-20 09:29:58 [CMD] "DonutsHaveEggs4" teleported to (1, 88, 1)
+2014-03-20 09:29:59 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:29:59 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:29:59 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:29:59 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:29:59 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:29:59 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:00 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:30:11 [INFO] [Console] you can build the base here
+2014-03-20 09:30:22 [INFO] <DonutsHaveEggs4> Ok So Do /sync
+2014-03-20 09:30:28 [INFO] <DonutsHaveEggs4> What Number
+2014-03-20 09:30:28 [INFO] [Console] remember /sync 1
+2014-03-20 09:30:42 [INFO] [Console] you dont have to do that eveery time
+2014-03-20 09:30:45 [INFO] [Console] just each login
+2014-03-20 09:30:54 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:31:00 [INFO] <DonutsHaveEggs4> So Now I Just Build
+2014-03-20 09:31:20 [INFO] [Console] I am writingg a plugin for LegionPE
+2014-03-20 09:31:27 [INFO] [Console] it is already 21.3 KB large now
+2014-03-20 09:31:34 [INFO] <DonutsHaveEggs4> Wow
+2014-03-20 09:31:47 [INFO] [Console] 602 lines of code
+2014-03-20 09:31:51 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:31:53 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:31:53 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:31:54 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:31:55 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:32:00 [CMD] "PEMapModder" teleported to (254, 254, 254)
+2014-03-20 09:32:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:32:00 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:32:00 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:32:11 [CMD] Command ran as DonutsHaveEggs4.
+2014-03-20 09:32:27 [INFO] <DonutsHaveEggs4> So I Cant Place Blocks Next To The World Limit
+2014-03-20 09:32:29 [CMD] "PEMapModder" teleported to "DonutsHaveEggs4"
+2014-03-20 09:32:29 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:32:29 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:32:31 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:32:33 [INFO] [Console] yes
+2014-03-20 09:32:34 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:32:39 [INFO] [Console] dont touch it directly
+2014-03-20 09:32:41 [INFO] [Console] in mode 2
+2014-03-20 09:32:46 [INFO] [Console] but I think you can in mode 1
+2014-03-20 09:32:51 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:32:54 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:32:57 [INFO] <DonutsHaveEggs4> Yeah
+2014-03-20 09:33:13 [INFO] <DonutsHaveEggs4> I Cant Remove These Torches Either
+2014-03-20 09:33:18 [INFO] [Console] ?
+2014-03-20 09:33:30 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:33:31 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:33:33 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:33:34 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:33:36 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:33:38 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:33:58 [INFO] [Console] but maybe you can make the claim-chunk in the innermost chunk
+2014-03-20 09:34:01 [INFO] [Console] the corner chunk
+2014-03-20 09:34:03 [INFO] [Console] make it harder
+2014-03-20 09:34:14 [INFO] [Console] here
+2014-03-20 09:34:19 [INFO] [Console] as it is the last chunk to claim
+2014-03-20 09:34:27 [INFO] [Console] forgot to tell you
+2014-03-20 09:34:29 [INFO] <DonutsHaveEggs4> Oh Also In server.properties change flying to be on 
+2014-03-20 09:34:31 [INFO] [Console] it is also
+2014-03-20 09:34:44 [INFO] <DonutsHaveEggs4> good
+2014-03-20 09:34:44 [INFO] [Console] well
+2014-03-20 09:34:46 [INFO] [Console] i meant
+2014-03-20 09:34:50 [INFO] [Console] players can edit blocks
+2014-03-20 09:35:00 [INFO] [Console] outside the fences
+2014-03-20 09:35:08 [INFO] [Console] the fences are claim-chunk
+2014-03-20 09:35:12 [INFO] [Console] so they can't break them
+2014-03-20 09:35:30 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:35:31 [INFO] [Console] but I would allow them to build at margins
+2014-03-20 09:35:32 [INFO] [Console] also
+2014-03-20 09:35:38 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:35:41 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:35:41 [DEBUG] t:Block Quartz Block (155:0)
+2014-03-20 09:35:44 [DEBUG] t:Block Quartz Block (155:0)
+2014-03-20 09:35:46 [INFO] [Console] I would allow only players who claimed the chunk to edit it
+2014-03-20 09:35:46 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:35:49 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:35:53 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:35:57 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:35:58 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:35:59 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:35:59 [DEBUG] t:Block Quartz Slab (44:6)
+2014-03-20 09:36:00 [INFO] [Console] but if they are built in
+2014-03-20 09:36:06 [INFO] [Console] donuts wait
+2014-03-20 09:36:06 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:10 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:10 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:11 [INFO] [Console] dont use stairs
+2014-03-20 09:36:11 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:12 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:13 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:14 [DEBUG] t:Block Quartz Block (155:0)
+2014-03-20 09:36:14 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:14 [INFO] [Console] and furnaces and chests
+2014-03-20 09:36:17 [INFO] [Console] they are different
+2014-03-20 09:36:19 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:36:28 [INFO] [Console] they wont rotate when they are copied
+2014-03-20 09:36:35 [INFO] <DonutsHaveEggs4> Ohh
+2014-03-20 09:36:38 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:36:39 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:36:40 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:36:42 [DEBUG] t:Block Quartz Block (155:0)
+2014-03-20 09:36:47 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 09:36:47 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:47 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:36:48 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:48 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:49 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:36:50 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:50 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:50 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:36:51 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:36:52 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:52 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:52 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:54 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:54 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:54 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:55 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:55 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:55 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:56 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:56 [DEBUG] t:Block White Wool (35:0)
+2014-03-20 09:36:57 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:36:59 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:00 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:00 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:00 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:00 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:00 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:01 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:01 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:01 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:02 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:02 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:02 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:02 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:02 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:03 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:04 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:04 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:37:04 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:05 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:37:05 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:05 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:37:06 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:06 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:37:06 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Dirt (3:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:07 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:08 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:37:08 [DEBUG] t:Block Grass (2:0)
+2014-03-20 09:37:11 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:12 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:12 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:12 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:12 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:13 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:13 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:13 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:14 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:14 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:14 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:14 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:15 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:16 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:16 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:16 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:17 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:17 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:17 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:18 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:18 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:18 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:18 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:19 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:20 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:21 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:21 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:21 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:21 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:23 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:23 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:23 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:24 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:24 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:24 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:25 [DEBUG] t:Block Air (0:0)
+2014-03-20 09:37:25 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:26 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:26 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:26 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:26 [DEBUG] t:Block Glass (20:0)
+2014-03-20 09:37:33 [INFO] [Console] wait i gotta restart
+2014-03-20 09:37:38 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:37:38 [INFO] [Console] the debug message is spamming the console
+2014-03-20 09:37:40 [INFO] Stopping server...
+2014-03-20 09:37:40 [INFO] PEMapModder[/192.168.0.100:50621] logged out due to server stop
+2014-03-20 09:37:40 [INFO] DonutsHaveEggs4[/174.97.155.156:52379] logged out due to server stop
+2014-03-20 09:37:40 [CMD] Stopping the server
+2014-03-20 09:37:40 [INFO] Unloading level "cc_field"
+2014-03-20 09:37:53 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-03-20 09:37:53 [INFO] Loading properties...
+2014-03-20 09:37:53 [INFO] Starting Minecraft PE server on *:19132
+2014-03-20 09:37:53 [INFO] This server is running PocketMine-MP version Alpha_1.3.12 "甘い(Amai)ビートルート(Beetroot)" (MCPE: v0.8.1 alpha) (API 12)
+2014-03-20 09:37:53 [INFO] PocketMine-MP is distributed under the LGPL License
+2014-03-20 09:37:53 [INFO] Preparing level "cc_field"
+2014-03-20 09:37:53 [INFO] Loading plugin "Chunk Claimers Mappers' Plugin!" 0.0 by PEMapModder
+2014-03-20 09:37:53 [INFO] Starting GS4 status listener
+2014-03-20 09:37:53 [INFO] Setting query port to 19132
+2014-03-20 09:37:53 [INFO] Query running on 0.0.0.0:19132
+2014-03-20 09:37:53 [INFO] Default game type: VIEW
+2014-03-20 09:37:53 [INFO] Starting plugins...
+2014-03-20 09:37:53 [INFO] Done (3.916s)! For help, type "help" or "?"
+2014-03-20 09:37:56 [CMD] TPS: 20.4801, Memory usage: 9.98MB (Peak 10.15MB)
+2014-03-20 09:38:08 [INFO] PEMapModder[/192.168.0.100:40418] logged in with entity id 2 at (cc_field, 7.89, 99, 8.88)
+2014-03-20 09:38:52 [INFO] DonutsHaveEggs4[/174.97.155.156:56672] logged in with entity id 3 at (cc_field, 1.61, 88.51, 4.66)
+2014-03-20 09:39:06 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:39:14 [INFO] <PEMapModder> how do u think about this
+2014-03-20 09:39:20 [INFO] <PEMapModder> and make stairs usinv slabs
+2014-03-20 09:39:24 [INFO] <DonutsHaveEggs4> Its Cool
+2014-03-20 09:39:26 [INFO] <PEMapModder> to let players walk up fo it
+2014-03-20 09:39:38 [INFO] <PEMapModder> i mean
+2014-03-20 09:39:47 [INFO] <PEMapModder> the claim chunk fhing
+2014-03-20 09:40:03 [INFO] <PEMapModder> build a path to let players walk up to it.
+2014-03-20 09:40:04 [INFO] <PEMapModder> also
+2014-03-20 09:40:13 [INFO] DonutsHaveEggs4[/174.97.155.156:56672] logged out due to logged in from another location
+2014-03-20 09:40:13 [INFO] DonutsHaveEggs4[/174.97.155.156:60975] logged in with entity id 7 at (cc_field, 1.81, 87.62, 2.4)
+2014-03-20 09:40:22 [INFO] <PEMapModder> think of a way to let players spawn
+2014-03-20 09:40:34 [INFO] <PEMapModder> how to let players spawn?
+2014-03-20 09:41:02 [INFO] <PEMapModder> in fact
+2014-03-20 09:41:12 [INFO] <PEMapModder> the whole team and auth and portal thing
+2014-03-20 09:41:15 [INFO] <PEMapModder> in legion pe
+2014-03-20 09:41:19 [INFO] <PEMapModder> is being coded by me
+2014-03-20 09:41:24 [INFO] <DonutsHaveEggs4> Lol
+2014-03-20 09:41:31 [INFO] <DonutsHaveEggs4> Is it white listed
+2014-03-20 09:41:37 [INFO] <PEMapModder> it is not yet on
+2014-03-20 09:41:54 [INFO] <PEMapModder> i am testing the plugin and adding things on port 19133
+2014-03-20 09:41:56 [INFO] <PEMapModder> internal port
+2014-03-20 09:42:00 [INFO] <PEMapModder> so u cant connect
+2014-03-20 09:42:03 [INFO] <DonutsHaveEggs4> Yeah
+2014-03-20 09:42:13 [INFO] [Console] hey
+2014-03-20 09:42:17 [INFO] [Console] did you remember /sync?
+2014-03-20 09:42:22 [INFO] <DonutsHaveEggs4> Yep
+2014-03-20 09:42:28 [INFO] <PEMapModder> good for you
+2014-03-20 09:42:46 [INFO] <PEMapModder> whats this?
+2014-03-20 09:42:48 [INFO] <PEMapModder> qlso
+2014-03-20 09:42:51 [INFO] <PEMapModder> if ur free
+2014-03-20 09:43:00 [INFO] <PEMapModder> build a path up here
+2014-03-20 09:43:11 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:43:36 [INFO] [Console] and remember dont make chests and furnaces and stairs and ladders and sign posts
+2014-03-20 09:43:47 [INFO] [Console] ok?
+2014-03-20 09:43:51 [INFO] <DonutsHaveEggs4> K
+2014-03-20 09:44:03 [NOTICE] Player data not found for "meshf15", creating new profile
+2014-03-20 09:44:03 [INFO] meshf15[/79.170.54.193:3310] logged in with entity id 11 at (cc_field, 128, 86, 128)
+2014-03-20 09:44:15 [WARNING] meshf15 moved too quickly!
+2014-03-20 09:45:05 [INFO] <DonutsHaveEggs4> Hi Mshef
+2014-03-20 09:45:44 [INFO] meshf15[/79.170.54.193:3310] logged out due to client disconnect
+2014-03-20 09:46:14 [INFO] <PEMapModder> hi
+2014-03-20 09:46:23 [INFO] <PEMapModder> and of course
+2014-03-20 09:46:26 [INFO] <PEMapModder> donuts
+2014-03-20 09:46:31 [INFO] <DonutsHaveEggs4> Yes
+2014-03-20 09:46:34 [INFO] <PEMapModder> of course remember to add some challenge points
+2014-03-20 09:46:37 [INFO] <PEMapModder> in this
+2014-03-20 09:46:40 [INFO] <PEMapModder> like parkour
+2014-03-20 09:46:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:46:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:46:47 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:46:48 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:46:58 [INFO] <PEMapModder> wait...
+2014-03-20 09:47:03 [INFO] <PEMapModder> the slabs are not synced
+2014-03-20 09:47:09 [INFO] <DonutsHaveEggs4> ??
+2014-03-20 09:47:12 [INFO] <PEMapModder> u forgot /sync after relogging
+2014-03-20 09:47:18 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:47:18 [INFO] <DonutsHaveEggs4> Ohh
+2014-03-20 09:47:18 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:47:29 [INFO] <PEMapModder> ill fix it
+2014-03-20 09:48:15 [INFO] <PEMapModder> have you done /sync?
+2014-03-20 09:48:19 [INFO] <DonutsHaveEggs4> Ues
+2014-03-20 09:48:21 [INFO] <DonutsHaveEggs4> *Yes
+2014-03-20 09:48:26 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:27 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:27 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:27 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:27 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:27 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:48:40 [INFO] <PEMapModder> lol
+2014-03-20 09:48:45 [INFO] <PEMapModder> did u see the wooden planks?
+2014-03-20 09:48:52 [INFO] <DonutsHaveEggs4> Nope
+2014-03-20 09:48:59 [INFO] <PEMapModder> at the world corner
+2014-03-20 09:49:08 [INFO] <PEMapModder> see them?
+2014-03-20 09:49:16 [INFO] DonutsHaveEggs4[/174.97.155.156:60975] logged out due to timeout
+2014-03-20 09:49:29 [INFO] DonutsHaveEggs4[/174.97.155.156:52775] logged in with entity id 16 at (cc_field, 3.98, 97.05, 2.67)
+2014-03-20 09:49:37 [INFO] [/174.97.155.156:54044] logged out due to timeout
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:40 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:49:45 [INFO] [/174.97.155.156:49287] logged out due to timeout
+2014-03-20 09:49:54 [INFO] [Console] hello?
+2014-03-20 09:50:01 [INFO] <DonutsHaveEggs4> How Do We Keep People From Hacking Are Account
+2014-03-20 09:50:08 [INFO] <PEMapModder> dont worry
+2014-03-20 09:50:14 [INFO] <PEMapModder> i am shutting this down soon
+2014-03-20 09:50:27 [INFO] <PEMapModder> and i have done backup
+2014-03-20 09:50:37 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:50:37 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:50:43 [INFO] [Console] remember /sync
+2014-03-20 09:50:48 [INFO] <DonutsHaveEggs4> Yep 
+2014-03-20 09:51:56 [INFO] [Console] and
+2014-03-20 09:52:01 [INFO] [Console] where should players spawn?
+2014-03-20 09:52:06 [INFO] [Console] and respawn?
+2014-03-20 09:52:08 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:52:08 [WARNING] DonutsHaveEggs4 moved too quickly!
+2014-03-20 09:52:28 [INFO] <DonutsHaveEggs4> Right Here
+2014-03-20 09:52:36 [CMD] "PEMapModder" teleported to "DonutsHaveEggs4"
+2014-03-20 09:52:36 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:52:36 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:52:37 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:52:37 [WARNING] PEMapModder moved too quickly!
+2014-03-20 09:52:41 [CMD] There are 2/20 players online:
+2014-03-20 09:52:41 [CMD] PEMapModder, DonutsHaveEggs4
+2014-03-20 09:52:47 [INFO] <PEMapModder> ok
+2014-03-20 09:52:51 [INFO] <PEMapModder> let me demo then
+2014-03-20 09:53:14 [INFO] [Console] dont place signs
+2014-03-20 09:53:23 [INFO] <DonutsHaveEggs4> I Did Not 
+2014-03-20 09:53:26 [INFO] [Console] the text is not copied
+2014-03-20 09:53:29 [INFO] [Console] then this sign?
+2014-03-20 09:53:42 [INFO] [Console] only you have creative in this server
+2014-03-20 09:53:47 [INFO] [Console] and I of course
+2014-03-20 09:53:52 [INFO] <DonutsHaveEggs4> You Were Just Imagineing things Pe :)
+2014-03-20 09:54:01 [INFO] <DonutsHaveEggs4> You Never Saw A Sign
+2014-03-20 09:54:09 [INFO] [Console] hyptonizing...
+2014-03-20 09:54:14 [INFO] <DonutsHaveEggs4> Lol
+2014-03-20 09:54:34 [INFO] [Console] then what about this?
+2014-03-20 09:55:03 [INFO] [Console] ---
+2014-03-20 09:55:03 [INFO] [Console] - id: Sign
+2014-03-20 09:55:03 [INFO] [Console]   x: 4
+2014-03-20 09:55:04 [INFO] [Console]  "y": 99
+2014-03-20 09:55:04 [INFO] [Console]   z: 8
+2014-03-20 09:55:04 [INFO] [Console]   Text1: The Magic Thing
+2014-03-20 09:55:04 [INFO] [Console]   Text2: That Donuts
+2014-03-20 09:55:04 [INFO] [Console]   Text3: Really Cant
+2014-03-20 09:55:05 [INFO] [Console]   Text4: Explain.
+2014-03-20 09:55:05 [INFO] [Console]   creator: DonutsHaveEggs4
+2014-03-20 09:55:05 [INFO] [Console] ...
+2014-03-20 09:55:12 [INFO] <DonutsHaveEggs4> Ummmm
+2014-03-20 09:55:28 [INFO] [Console] lol
+2014-03-20 09:56:16 [INFO] [Console] Go to another server
+2014-03-20 09:56:18 [INFO] [Console] with same ip
+2014-03-20 09:56:20 [INFO] [Console] port 19135
+2014-03-20 09:56:23 [INFO] <DonutsHaveEggs4> Ok
+2014-03-20 09:56:30 [INFO] DonutsHaveEggs4[/174.97.155.156:52775] logged out due to client disconnect
+2014-03-20 09:56:36 [INFO] Stopping server...
+2014-03-20 09:56:36 [INFO] PEMapModder[/192.168.0.100:40418] logged out due to server stop
+2014-03-20 09:56:36 [CMD] Stopping the server
+2014-03-20 09:56:36 [INFO] Unloading level "cc_field"

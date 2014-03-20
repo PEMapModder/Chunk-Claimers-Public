@@ -1,2 +1,106 @@
---- []
+---
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 1.840000
+  - 85.190000
+  - -0.180000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 2.880000
+  - 85.190000
+  - -0.120000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 3.840000
+  - 85.190000
+  - -0.200000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - -0.200000
+  - 85.190000
+  - 4.180000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 5.060000
+  - 85.190000
+  - -0.200000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 6.200000
+  - 85.190000
+  - -0.140000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - 0.000000
+  - 85.190000
+  - 5.960000
+  Rotation:
+  - 0
+  - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - -0.140000
+  - 85.190000
+  - 8.140000
+  Rotation:
+  - 0
+  - 0
 ...

@@ -57,12 +57,18 @@ class CCMapper implements Plugin{
 			if($data["type"]==="break")
 				$data["target"]=$data["target"]->level->getBlock($data["target"]);
 			$t=$data["target"];
-			console("[DEBUG] t:$t");
+			// console("[DEBUG] t:$t");
 			for($i=0; $i<6; $i++){
 				$this->sync($t->getSide($i), $status);
-				console("[DEBUG] i:$i");
+				// console("[DEBUG] i:$i");
 			}
 			$this->sync($t, $status);
+		}
+		else{
+			$t=$data["target"];
+			if($data["type"]=="place")
+				$p->sendChat("Block touched is $t, Coords ".round($t->x, 1).",".round($t->y, 1).",".round($t->z, 1)." at level ".$t->level->getName());
+			return false;
 		}
 	}
 	private function sync(Block $block, $type){
