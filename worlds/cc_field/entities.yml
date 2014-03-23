@@ -103,4 +103,17 @@
   Rotation:
   - 0
   - 0
+- id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+  - -0.100000
+  - 85.190000
+  - 21.960000
+  Rotation:
+  - 0
+  - 0
 ...

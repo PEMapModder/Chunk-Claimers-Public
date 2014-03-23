@@ -1,15 +1,15 @@
 ---
 caseusername: teamhd1
 position:
-  level: cc_lobby
-  x: 145.000000
-  "y": 65.000000
-  z: 139.000000
+  level: cc_field
+  x: 128.000000
+  "y": 85.000000
+  z: 128.000000
 spawn:
-  level: cc_lobby
-  x: 145
-  "y": 65
-  z: 139
+  level: cc_field
+  x: 128
+  "y": 86
+  z: 128
 inventory:
 - - 0
   - 0
@@ -140,7 +140,7 @@ armor:
   - 0
 gamemode: 0
 health: 20
-lastIP: 92.29.161.114
-lastID: "1037105698"
+lastIP: 92.29.162.38
+lastID: "197314838"
 achievements: []
 ...

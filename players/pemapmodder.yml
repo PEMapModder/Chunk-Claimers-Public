@@ -2,9 +2,9 @@
 caseusername: PEMapModder
 position:
   level: cc_field
-  x: 2.967863
-  "y": 86.000000
-  z: 6.531069
+  x: 127.672592
+  "y": 85.000000
+  z: 128.161453
 spawn:
   level: cc_field
   x: 128
@@ -360,6 +360,6 @@ armor:
 gamemode: 1
 health: 20
 lastIP: 192.168.0.100
-lastID: "867944171"
+lastID: "487106393"
 achievements: []
 ...

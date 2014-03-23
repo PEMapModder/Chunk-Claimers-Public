@@ -2,9 +2,9 @@
 caseusername: _AQUA_BEAR_
 position:
   level: cc_field
-  x: 223.828339
-  "y": 89.627991
-  z: 229.272446
+  x: 217.264496
+  "y": 89.424881
+  z: 232.200760
 spawn:
   level: cc_field
   x: 128
@@ -360,6 +360,6 @@ armor:
 gamemode: 3
 health: 20
 lastIP: 115.134.199.229
-lastID: "18446744073705422789"
+lastID: "18446744072481878392"
 achievements: []
 ...

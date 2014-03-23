@@ -2,9 +2,9 @@
 caseusername: DonutsHaveEggs4
 position:
   level: cc_field
-  x: 2.445701
-  "y": 88.788193
-  z: 9.569847
+  x: 240.489716
+  "y": 99.168327
+  z: 15.864567
 spawn:
   level: cc_field
   x: 128
@@ -360,6 +360,6 @@ armor:
 gamemode: 1
 health: 20
 lastIP: 174.97.155.156
-lastID: "18446744072329018698"
+lastID: "18446744071632775234"
 achievements: []
 ...
